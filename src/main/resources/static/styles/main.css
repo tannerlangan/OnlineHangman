@@ -1,0 +1,49 @@
+/* Colour Scheme
+    Header Background: #001244
+    BackGround: #005086
+    Header Text: #f7d6bf
+    Main Text: #b0cac7
+    Unused #318fb5
+ */
+
+body {
+    font-family: sans-serif;
+    background-color: #005086;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.header{
+    background-color: #001244;
+    height: 50px;
+}
+
+.title{
+    color: #b0cac7;
+    padding-left: 35px;
+}
+
+#message{
+    padding-left: 35px;
+    color: #f7d6bf;
+
+}
+
+#rules{
+    white-space: pre;
+    display: inline-block;
+    padding-left: 35px;
+    color: #f7d6bf;
+}
+
+#headtext{
+    color: #f7d6bf;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.link-button{
+    margin-left: 35px;
+}
