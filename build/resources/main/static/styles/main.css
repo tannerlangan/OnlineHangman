@@ -30,7 +30,7 @@ body {
 
 }
 
-#rules{
+p {
     white-space: pre;
     display: inline-block;
     padding-left: 35px;
